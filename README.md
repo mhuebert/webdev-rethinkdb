@@ -1,8 +1,8 @@
-# lispcast-webdev-rethinkdb
+# webdev-rethinkdb
 
-I followed along with Eric Normand's excellent
+I followed Eric Normand's excellent
 [Web Development in Clojure](http://www.purelyfunctional.tv/web-dev-in-clojure)
-LispCast, but made a few alterations:
+LispCast, with some alterations:
 
 * RethinkDB instead of Postgres (expects rethinkdb to be running locally on default port)
 * Not set up for Heroku
