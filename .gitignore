@@ -1,0 +1,15 @@
+/target
+/classes
+/checkouts
+.idea/*
+*.xml
+*.iml
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
+rethinkdb_data/
